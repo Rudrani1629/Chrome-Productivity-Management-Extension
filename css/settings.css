@@ -1,0 +1,17 @@
+h1{
+    display:rgb(227, 19, 40);
+    font-size:40px;
+    padding: 5px;
+    text-decoration:underline;
+    text-decoration-style:unset;
+}
+h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 15px;
+}
+HTML {
+    background-color:ghostwhite;
+    font-size:20px;
+}
